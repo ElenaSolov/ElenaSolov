@@ -6,7 +6,7 @@
 - 📫 My email: seaver@yandex.ru
 
 🛠  Tech Stack
-'JavaScript'  React  Node.js HTML  CSS  Git  GitHub  Visual Studio Code Webstorm Webpack Redux WebSockets TypeScript PostgreSQL Nest.js MongoDB
+JavaScript  React  Node.js HTML  CSS  Git  GitHub  Visual Studio Code Webstorm Webpack Redux WebSockets TypeScript PostgreSQL Nest.js MongoDB
 
 <!---
 ElenaSolov/ElenaSolov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
