@@ -1,9 +1,9 @@
 - 👋 Hi, I’m currently a student at Web-development course (Yandex.Practicum)
 - 💬 I can fluently communicate in Russian, English or Hebrew
 - 👀 I’m interested in web development
-- 💞️ I’m looking to collaborate on JS or React projects
+- 👩‍💻 I’m looking to collaborate on JS or React projects
 - 💖 I love reading books
-- 📫 My email: seaver@yandex.ru
+- 📧 My email: seaver@yandex.ru
 
 🛠  Tech Stack:
 
