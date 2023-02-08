@@ -3,7 +3,7 @@
 - 💬 I can fluently communicate in Russian, English or Hebrew
 - 👩‍💻 I’m looking to collaborate on web projects
 - 💖 I love reading books, good food and new places
-- 📧 My email: seaver@yandex.ru
+- 📧 My email: es0528664603@gmail.com
 
 🛠  Tech Stack:
 
