@@ -1,5 +1,6 @@
-- 👋 Hi, I’m currently a student at Web-development course (Yandex.Practicum)
-- 🔥 I enjoy creating things that live on the internet.
+- 💻 Hi, I am currently a full stack developer with accent on frontend(react)
+- 👋 I’m a graduate of Web-development course (Yandex.Practicum)
+- 🔥 I enjoy creating things that live on the internet
 - 💬 I can fluently communicate in Russian, English or Hebrew
 - 👩‍💻 I’m looking to collaborate on web projects
 - 💖 I love reading books, good food and new places
