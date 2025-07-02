@@ -1,15 +1,45 @@
-- 💻 Hi, I am currently a full stack developer with accent on frontend(react)
-- 👋 I’m a graduate of Web-development course (Yandex.Practicum)
-- 🔥 I enjoy creating things that live on the internet
-- 💬 I can fluently communicate in Russian, English or Hebrew
-- 👩‍💻 I’m looking to collaborate on web projects
-- 💖 I love reading books, good food and new places
-- 📧 My email: es0528664603@gmail.com
+👋 Hi there! I'm a Full Stack Developer with a Frontend Focus
 
-🛠  Tech Stack:
+I'm a passionate developer with a strong emphasis on building responsive, intuitive, and scalable web applications.
+I specialize in React, love working with modern stacks, and continuously seek ways to bridge creativity with functionality.
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5 Logo" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS Logo" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Logo" height="30" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" height="30" /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS Logo" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git Logo" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" alt="GitHub Logo" height="30"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript Logo" height="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/768px-WebStorm_Icon.svg.png?20210315203338" alt="WebStorm Logo" height="30"/> <img src="https://www.nicepng.com/png/detail/290-2907275_webpack-logo-default-with-proper-spacing-on-light.png" alt="Webpack Logo" height="30" background-color="black"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/1200px-Redux_Logo.png?20180429170339" alt="Redux Logo" height="30"/> <img src="https://cdn-images-1.medium.com/max/800/1*_6Zt1h5jopuP9syi-VDoMg.jpeg" alt="WebSockets Logo" height="30"/> <img src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo-768x480.png" alt="PostgreSQL Logo" height="30"/> <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-768x480.png" alt="MongoDB Logo" height="30"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png?20191226135330" alt="Cypress Logo" height="30"/> <img src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" alt="Express Logo" height="30"/>
+🚀 About Me
 
+🎓 Graduate of Web Development Program @ Yandex.Practicum
+
+💻 Currently working as a Full Stack Developer  (React, TS, ASP.NET)
+
+🌐 I love building things that live on the internet—clean code, smooth UX, and elegant solutions
+
+🗣 Fluent in English, Russian, and Hebrew
+
+🤝 Open to collaboration on innovative and meaningful web projects
+
+📚 Avid reader | 🍜 Foodie | 🌍 Explorer
+
+📫 Reach me at es0528664603@gmail.com
+
+🛠 Tech Stack
+<!-- Frontend -->
+Frontend:
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="30" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="30" alt="CSS"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="30" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" height="30" alt="TypeScript"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="30" alt="React"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png" height="30" alt="Redux"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/768px-WebStorm_Icon.svg.png" height="30" alt="WebStorm"/>
+
+Backend & Tools:
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="30" alt="Node.js"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="30" alt="Express.js"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" height="30" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="30" alt="Git"/>
+<img src="https://cdn-images-1.medium.com/max/800/1*_6Zt1h5jopuP9syi-VDoMg.jpeg" height="30" alt="WebSockets"/>
+<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-768x480.png" height="30" alt="MongoDB"/>
+<img src="https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo-768x480.png" height="30" alt="PostgreSQL"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" height="30" alt="Cypress"/>
+<img src="https://www.nicepng.com/png/detail/290-2907275_webpack-logo-default-with-proper-spacing-on-light.png" height="30" alt="Webpack"/>
 
 
 
